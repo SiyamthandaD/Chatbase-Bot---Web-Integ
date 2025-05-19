@@ -1,3 +1,6 @@
+#AI Academy Virtual Assistant
+Here's the link to my chatbot: https://www.chatbase.co/chatbot-iframe/j2qD0LHuLymyt2cAAQzmQ 
+
 This repository hosts the source code and documentation for a custom AI-powered chatbot, built using Chatbase and integrated into a personal website interface. The chatbot is specifically designed to assist users by answering a wide range of questions related to Artificial Intelligence (AI) and associated concepts.
 
 Key Features
